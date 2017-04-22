@@ -1,4 +1,7 @@
-# test coverage for  [static-server (v2.0.4)](https://github.com/nbluis/static-server#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-static-server.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-static-server) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-static-server.svg)](https://travis-ci.org/npmtest/node-npmtest-static-server)
+# npmtest-static-server
+
+#### basic test coverage for  [static-server (v2.0.4)](https://github.com/nbluis/static-server#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-static-server.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-static-server) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-static-server.svg)](https://travis-ci.org/npmtest/node-npmtest-static-server)
+
 #### A simple http server to serve static resource files from a local directory.
 
 [![NPM](https://nodei.co/npm/static-server.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/static-server)
